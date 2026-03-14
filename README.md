@@ -1,16 +1,19 @@
-## Hi there 👋
+# pingmar
 
-<!--
-**pingmar/pingmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML, Computer Vision, and Deep Learning student focused on practical, reproducible systems.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Computer Vision and remote sensing
+* Applied deep learning and model evaluation
+* Reproducible ML pipelines and clean engineering
+
+## Featured Work
+
+* hist\_smooth: histogram smoothing library with tests and benchmarks
+* DT4LC: external contribution to land cover change detection. PR: https://github.com/IPT-MMDA/DT4LC-project/pull/31
+
+## Contact
+
+* GitHub: https://github.com/pingmar
+
